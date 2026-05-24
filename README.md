@@ -62,6 +62,6 @@ Sistemas implementados:
 
 ## 📫 Dónde encontrarme
 
-- [The Rookies](https://www.therookies.co/u/MarcLuengo)
+- [Linktr.ee](https://linktr.ee/tibiidev)
 - [LinkedIn] "próximamente"
   
