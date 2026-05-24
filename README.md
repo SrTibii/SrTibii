@@ -8,7 +8,7 @@
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| **Lenguajes** | C#, C++ (básico) |
+| **Lenguajes** | C# |
 | **Motores** | Unity (2D y 3D) |
 | **Networking** | Unity Netcode, Unity Relay, REST APIs |
 | **Backend** | XAMPP (Apache + PHP), MySQL |
@@ -62,8 +62,5 @@ Sistemas implementados:
 ## 📫 Dónde encontrarme
 
 - [The Rookies](https://www.therookies.co/u/MarcLuengo)
-- [LinkedIn] "próximamente" 
-
----
-
-✨ Este README aparece automáticamente en mi perfil gracias al repositorio `SrTibii/SrTibii`
+- [LinkedIn] "próximamente"
+  
