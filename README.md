@@ -32,7 +32,7 @@ Sistemas implementados:
 
 ---
 
-### [Sea of Eternal Plunder] 🚢
+### [Sea of Eternal Plunder](https://www.therookies.co/projects/93669) 🚢
 *Runner 3D en el mar | Proyecto en solitario*
 
 Sistemas implementados:
