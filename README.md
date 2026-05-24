@@ -29,6 +29,7 @@ Sistemas implementados:
 - Gestión de colisiones físicas personalizadas
 
 🔗 [Ver en The Rookies](https://www.therookies.co/projects/93709)
+🔗 [Ver en Itch.io](https://tibii.itch.io/aceitunator)
 
 ---
 
