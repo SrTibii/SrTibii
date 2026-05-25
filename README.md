@@ -58,6 +58,7 @@ Sistemas implementados:
 - Sincronización de health, VFX y estados de muerte
 
 🔗 [Ver en The Rookies](https://www.therookies.co/projects/93750)
+🔗 [Ver en Itch.io](https://tibii.itch.io/jets)
 
 ---
 
