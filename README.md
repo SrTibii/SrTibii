@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Technologies I useo
+## 🛠️ Technologies I use
 
 | Category | Technologies |
 |-----------|-------------|
