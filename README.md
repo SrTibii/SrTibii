@@ -1,69 +1,85 @@
-# 👋 Hola, soy Marc (SrTibii)
+# 👋 Hi, I'm Marc (SrTibii)
 
-🎮 **Game Programmer** | Estudiante de 3º de carrera en Florida Universitaria
+🎮 **Game Programmer** | 3rd-year student at Florida Universitaria
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Technologies I useo
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 |-----------|-------------|
 | **Lenguajes** | C# |
 | **Motores** | Unity (2D y 3D) |
 | **Networking** | Unity Netcode, Unity Relay, REST APIs |
 | **Backend** | XAMPP (Apache + PHP), MySQL |
-| **Herramientas** | Visual Studio, Git, GitHub |
+| **Tools** | Visual Studio, Git, GitHub |
 
 ---
 
-## 🕹️ Mis proyectos destacados
+## 🕹️ Featured projects
 
 ### [Aceitunator](https://github.com/SrTibii/Aceitunator) 🫒
-*Juego 2D con física estilo golf | Proyecto de equipo*
+*2D physics-based golf-style game | Team project*
 
-Sistemas implementados:
-- Control por click-drag-release con visualización de dirección
-- Múltiples tipos de enemigos con IA basada en estados (patrulla, persecución, ataque con anticipación)
-- Modificadores ambientales (vino ralentiza, agua acelera)
-- Sistema de progresión de 20 niveles
-- Gestión de colisiones físicas personalizadas
+Systems implemented:
+- Click-drag-release control with direction preview
+- Multiple enemy types with state-based AI (patrol, chase, predictive attack)
+- Environmental modifiers (wine slows down, water speeds up)
+- 20-level progression system
+- Custom physics collision handling
 
-🔗 [Ver en The Rookies](https://www.therookies.co/projects/93709)
-🔗 [Ver en Itch.io](https://tibii.itch.io/aceitunator)
+🔗 [View on The Rookies](https://www.therookies.co/projects/93709)
+🔗 [View on Itch.io](https://tibii.itch.io/aceitunator)
 
 ---
 
 ### [Sea of Eternal Plunder](https://www.therookies.co/projects/93669) 🚢
-*Runner 3D en el mar | Proyecto en solitario*
+*3D sea runner | Solo project*
 
-Sistemas implementados:
-- Generación procedural de obstáculos con Perlin Noise
-- Sistema de dificultad con 3 modos (cambios lógicos, no solo numéricos)
-- Minijuego post-muerte contra IA usando algoritmos de búsqueda (lineal, binario, ternario)
-- Sistema de estados del juego completo
+Systems implemented:
+- Procedural obstacle generation using Perlin Noise
+- Difficulty system with 3 dynamic modes (logic-based, not just numerical scaling)
+- Post-death minigame against AI using search algorithms (linear, binary, ternary)
+- Complete game state management system
 
-🔗 [Ver en The Rookies](https://www.therookies.co/projects/93669)
-🔗 [Ver en Itch.io](https://tibii.itch.io/seaofeternalplunder)
+🔗 [View on The Rookies](https://www.therookies.co/projects/93669)
+🔗 [View on Itch.io](https://tibii.itch.io/seaofeternalplunder)
 
 ---
 
 ### [JETS](https://github.com/MikaelaAbrilDz/ProyectoAviones) ✈️
-*Juego de combate aéreo multiplayer | Proyecto de equipo*
+*Multiplayer aerial combat game | Team project*
 
-Sistemas implementados:
-- Multiplayer local (teclado + mando)
-- Multiplayer online con Unity Relay y Netcode (host/client)
-- Backend personalizado con XAMPP + MySQL (registro, login, persistencia de partidas)
-- Sistema de combate autoritativo (detección de impactos en servidor)
-- Sincronización de health, VFX y estados de muerte
+Systems implemented:
+- Local multiplayer (keyboard + controller)
+- Online multiplayer using Unity Relay and Netcode (host/client)
+- Custom backend with XAMPP + MySQL (registration, login, match persistence)
+- Authoritative combat system (server-side hit detection)
+- Health, VFX, and death state synchronization
 
-🔗 [Ver en The Rookies](https://www.therookies.co/projects/93750)
-🔗 [Ver en Itch.io](https://tibii.itch.io/jets)
+🔗 [View on The Rookies](https://www.therookies.co/projects/93750)
+🔗 [View on Itch.io](https://tibii.itch.io/jets)
 
 ---
+
+### [El Guardián de los Terrarios](https://github.com/Fumikai/Proyecto) 🌿
+*3D platformer in a terrarium world with exploration, environmental challenges, and a final boss. | Team project*
+
+Systems implemented:
+- Hook / grappling system with parabolic launch physics
+- Object interaction using the grappling hook
+- Controller support with aiming adjustments for the hook
+- Moving platforms, rotating stairs, pendulums, and bounce mechanics
+- Respawn and checkpoint system
+- Dynamic object spawning systems
+- Pause menu and audio settings
+- Audio integration, music zones, and sound management
+
+🔗 [View on The Rookies](https://www.therookies.co/projects/101231)
+🔗 [View on Itch.io](https://tibii.itch.io/elguardiandelosterrarios)
 
 ## 📫 Dónde encontrarme
 
 - [Linktr.ee](https://linktr.ee/tibiidev)
-- [LinkedIn] "próximamente"
+- LinkedIn (coming soon)
   
