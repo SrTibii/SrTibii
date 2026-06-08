@@ -81,5 +81,5 @@ Systems implemented:
 ## 📫 Dónde encontrarme
 
 - [Linktr.ee](https://linktr.ee/tibiidev)
-- LinkedIn (coming soon)
+- [Linkedin](https://www.linkedin.com/in/marc-luengo-ferr%C3%A1-2a5100415/?skipRedirect=true)
   
