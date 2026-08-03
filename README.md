@@ -78,6 +78,25 @@ Systems implemented:
 🔗 [View on The Rookies](https://www.therookies.co/projects/101231)
 🔗 [View on Itch.io](https://tibii.itch.io/elguardiandelosterrarios)
 
+---
+
+### [SuperBus](https://github.com/Unaiarias/EMTJuegoSuperBus) 🚌
+*2.5D action game | Team project*
+
+Systems implemented:
+- Rigidbody-based player controller with 2.5D camera
+- Melee combat system with combos, score multiplier, and enemy interactions
+- Special abilities (Bomb & Shield) with cooldown management
+- Randomized power-up spawning and pickup system
+- Health, score, regeneration, and progression systems
+- Main menu, HUD, pause menu, settings, victory, and game over screens
+- Audio integration, VFX, gameplay feedback, and art integration
+- Level integration, gameplay balancing, NavMesh baking, and final polish
+
+🔗 [View on The Rookies](https://www.therookies.co/projects/104650)
+🔗 [View on Itch.io](https://tibii.itch.io/superbus)
+
+
 ## 📫 Dónde encontrarme
 
 - [Linktr.ee](https://linktr.ee/tibiidev)
