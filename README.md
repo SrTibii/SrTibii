@@ -96,6 +96,27 @@ Systems implemented:
 🔗 [View on The Rookies](https://www.therookies.co/projects/104650)
 🔗 [View on Itch.io](https://tibii.itch.io/superbus)
 
+---
+
+---
+
+### [BACKROOMS: No Way Out](https://github.com/SrTibii/Backrooms) 👁️
+*3D first-person horror and puzzle game | Solo project*
+
+Systems implemented:
+- Custom first-person controller with sprint, stamina, crouching, head bob, camera sway, and VHS zoom
+- Enemy AI with state-based behavior, NavMesh patrol, player detection, pursuit, and search system
+- Locker hiding system integrated with enemy AI
+- Centralized interaction and object pickup system
+- Multiple puzzle systems including color panels, safe, vending machine, and generators
+- Centralized audio manager with persistent volume settings
+- VHS visual effects including camera movement, tracking glitches, and CRT effects
+- Main menu, pause menu, and configurable options system
+- Complete gameplay flow with key collection, escape, victory, and game over states
+
+🔗 [View on The Rookies](https://www.therookies.co/projects/105547)
+🔗 [View on Itch.io](https://tibii.itch.io/backrooms-no-way-out)
+
 
 ## 📫 Dónde encontrarme
 
