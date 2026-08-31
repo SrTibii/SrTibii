@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marc (SrTibii)
 
-🎮 **Game Programmer** | 3rd-year student at Florida Universitaria
+🎮 **Game Programmer** | 4th-year student at Florida Universitaria
 
 ---
 
@@ -9,7 +9,7 @@
 | Category | Technologies |
 |-----------|-------------|
 | **Lenguajes** | C# |
-| **Motores** | Unity (2D y 3D) |
+| **Motores** | Unity (2D & 3D) |
 | **Networking** | Unity Netcode, Unity Relay, REST APIs |
 | **Backend** | XAMPP (Apache + PHP), MySQL |
 | **Tools** | Visual Studio, Git, GitHub |
@@ -95,8 +95,6 @@ Systems implemented:
 
 🔗 [View on The Rookies](https://www.therookies.co/projects/104650)
 🔗 [View on Itch.io](https://tibii.itch.io/superbus)
-
----
 
 ---
 
